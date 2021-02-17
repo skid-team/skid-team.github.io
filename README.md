@@ -1,6 +1,6 @@
 ## Skid Team 
 Welcome to the official Skid Team website! We are a roblox development group. <br>
-<br>
+
 ## Current Projects
 - Skid Hub (roblox game hub for exploiting) <br>
 - Skid team exploit maybe?? <br>
